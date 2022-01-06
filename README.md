@@ -27,3 +27,5 @@ npm run dev
 ## 预览图
 
 ![](https://cdn.jsdelivr.net/gh/ayuan-cyh/picbed@main/img/16414539382031641453938193.png)
+## 在线预览
+[预览地址](http://118.31.246.242:3004/)
