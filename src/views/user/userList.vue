@@ -121,14 +121,13 @@
 
 <script>
 import dayjs from 'dayjs'
-import add from '../../components/alertBox/add'
 import edit from '../../components/alertBox/edit'
 import userBox from '../../components/alertBox/userBox'
 
 export default {
   name: 'userList',
   components: {
-    add, edit, userBox
+    edit, userBox
   },
   data () {
     return {
